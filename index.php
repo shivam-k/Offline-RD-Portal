@@ -96,7 +96,7 @@ if(isset($_POST['submit'])) {
 	$username = $_POST['username'];
 	$password = $_POST['password'];
 	if(!empty($username) && !empty($password)) {
-		if($username == 'user@gmail.com' && $password == 'pass123') {
+		if($username == 'user@name' && $password == 'pass123') {
 			$_SESSION['username'] = $username;
 			?> <script> window.location="home.php"; </script> <?php 
 		}
