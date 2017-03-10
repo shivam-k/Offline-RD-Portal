@@ -3,7 +3,7 @@
 
 Precisely- **Registration Desk Portal**
 
-A Registration Management System, made in PHP, to manage the participants participating in any college fest. It is prefered to use it offline, means registration has to be managed on the registration desk itself. Refer to [this link]() for portal for online registration management system. 
+A Registration Management System, made in PHP, to manage the participants participating in any college fest. It is prefered to use it offline, means registration has to be managed on the registration desk itself. Refer to [this link]() for online registration management system. 
 
 
 
